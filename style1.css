@@ -95,6 +95,11 @@ p{
    padding: 30px 50px;
 }
 
+.content-section1 .inner-content,.content-section2 .inner-content{
+
+    padding: 0px;
+}
+
 .img img{
 
     width: 100%;
