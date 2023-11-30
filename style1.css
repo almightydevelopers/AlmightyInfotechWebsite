@@ -97,11 +97,11 @@ p{
 
 .content-section1 .inner-content,.content-section2 .inner-content{
 
-    padding: 0px;
+    padding-top: 0 !important;
 }
 
 .img img{
 
     width: 100%;
     height: 100%;
-    }
+}
